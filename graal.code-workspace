@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../graalvm/graal"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

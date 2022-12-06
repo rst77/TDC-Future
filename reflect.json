@@ -1,0 +1,5 @@
+[
+    { "name": "com.r13a.familiadinossauro.Dino", "allPublicMethods": true },
+    { "name": "com.r13a.familiadinossauro.Ovo", "allPublicMethods": true },
+    { "name": "com.r13a.familiadinossauro.Baby", "allPublicMethods": true }
+]
